@@ -808,7 +808,7 @@ h6,
   background: url(../img/video-area-bg.png) no-repeat center; }
   @media (max-width: 991px) {
     .video-area {
-      background: #828bb2;
+      background: #2596be;
       padding: 60px 0px; } }
   .video-area .video-part {
     position: relative; }
@@ -973,7 +973,7 @@ h6,
   @media (max-width: 991px) {
     .registration-area {
       padding: 60px 0px;
-      background: #7c32ff; } }
+      background: #2596be; } }
   .registration-area .section-title {
     padding-bottom: 0; }
   .registration-area .course-form-section {
